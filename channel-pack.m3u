@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg" group-title="Sports",AfroSport Nigeria
+https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06zuf64.png" group-title="Entertainment",APTIM TV
+https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9nHgK9t/logo-light.jpg" group-title="General",ATN
+https://tv2.ifastekpanel.com:3013/live/atntvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKKap2F.png" group-title="Religion",cLoveworld TV
+https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVBdpuF.png" group-title="Religion",Coza TV
+https://webstreaming-7.viewmedia.tv/web_097/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omsvAEM.png" group-title="Kids",Lovetoons TV
+https://kali1.everestcast.com:3674/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RT3yao.png" group-title="News",Plus TV Africa
+https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NFg3xp.png" group-title="Movies",Afriwood Series
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66758af777.png" group-title="Kids",Afrokiddos
+https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcNjuuO.png" group-title="Sports",BOKTV
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="Local",Cape Town TV
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uV5cHDW.png" group-title="Movies",Cinema Hausa
+https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwGquEb.png" group-title="Crime",Crime and Evidence
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9wMnQ0.png" group-title="Movies",Diva (South Africa)
+https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lXMzsNM.png" group-title="News",e.tv News & Sport
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5YxD5m.png" group-title="News",Life TV (South Africa)
+https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgUk4qB.png" group-title="Comedy",LOL
+https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0sNWg54.png" group-title="Sports",Sports Connect
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0sNWg54.png" group-title="Movies",Trigger
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
