@@ -56,3 +56,20 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sNWg54.png" group-title="Movies",Trigger
 https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Racing Sport",Racing Sport
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-name="Sky Racing 1",Sky Racing 1
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
+#EXTINF:-1 tvg-name="Sky Racing 2",Sky Racing 2
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1 tvg-name="Sky Thoroughbred Central",Sky Thoroughbred Central
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
+#EXTINF:-1 tvg-name="CBC Sport",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahrain Sports 1",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-name="DT Play",DT Play
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+#EXTINF:-1 tvg-name="Zoyt Sports",Zoyt Sports
+https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
