@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="Sports",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-id="https://hartmondenergy.com.ng/primetv/uploads/bein2.pngg" group-title="Sports",BeiN Sports 2
+https://het106z.4rouwanda-shop.store/live/4798998070/index.m3u8
 #EXTINF:-1 tvg-id="Sport.sk" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sports",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports",A Spor (1080p) [Not 24/7]
